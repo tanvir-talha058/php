@@ -7,7 +7,6 @@ function add_number(int $a, int $b) {
     return $a + $b;
 }
 
-
 function subtract_number(int $a, int $b) {
     return $a - $b;
 }
