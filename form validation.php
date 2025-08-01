@@ -7,7 +7,7 @@
     <title>learn php</title>
 </head>
 <body>
-    <form action="welcome php" method="post">
+    <form action="welcome.php" method="POST">
         Name: <input type="text" name="name"> <br>
         Email: <input type="email" name="email"> <br>
 
