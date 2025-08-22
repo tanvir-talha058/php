@@ -64,6 +64,7 @@ $conn->close();
             flex-direction: column;
             height: 100vh;
         }
+        
         .container {
             background-color: #fff;
             padding: 30px 50px;
@@ -109,6 +110,7 @@ $conn->close();
         }
     </style>
 </head>
+
 <body>
     <div class="container">
         <h1>Yesterday's Top Donor</h1>
